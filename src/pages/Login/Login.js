@@ -40,6 +40,8 @@ function Login() {
               );
             case AuthenticationState.InProgress:
               return <p>Authenticating...</p>;
+            default:
+              return null;
           }
         }}
       </AzureAD>
