@@ -66,11 +66,11 @@
         "typescript": "^3.8.3"
     },
     "scripts": {
-        "start": "rescripts start",
-        "build": "rescripts build",
-        "test": "rescripts test",
-        "eject": "rescripts eject",
-        "predeploy": "rescripts build",
+        "start": "NODE_ENV=production node_modules/react-scripts/bin/react-scripts.js start",
+        "build": "NODE_ENV=production node_modules/react-scripts/bin/react-scripts.js build",
+        "test": "NODE_ENV=production node_modules/react-scripts/bin/react-scripts.js test",
+        "eject": "NODE_ENV=production node_modules/react-scripts/bin/react-scripts.js eject",
+        "predeploy": "NODE_ENV=production node_modules/react-scripts/bin/react-scripts.js build",
         "deploy": "gh-pages -d build"
     },
     "browserslist": {
