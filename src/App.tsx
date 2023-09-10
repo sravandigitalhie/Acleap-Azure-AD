@@ -4,7 +4,7 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import Home from './pages/Home';
 import CssBaseline from '@mui/material/CssBaseline';
 import NotFound from './pages/NotFound';
-import { authProvider } from './pages/Login/authProvider';
+// import { authProvider } from './pages/Login/authProvider';
 
 const theme = createTheme();
 
