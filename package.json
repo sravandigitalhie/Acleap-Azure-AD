@@ -66,11 +66,11 @@
         "typescript": "^3.8.3"
     },
     "scripts": {
-        "start": "rescripts start",
-        "build": "rescripts build",
-        "test": "rescripts test",
-        "eject": "rescripts eject",
-        "predeploy": "rescripts build",
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject",
+        "predeploy": "react-scripts build",
         "deploy": "gh-pages -d build"
     },
     "browserslist": {
