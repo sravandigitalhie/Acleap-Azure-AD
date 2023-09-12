@@ -2,17 +2,10 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
 import { AzureAD } from 'react-aad-msal';
-import { authProvider } from './pages/Login/authProvider';
+import { authProvider } from './authProvider';
 import * as serviceWorker from './serviceWorker'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Login from './pages/Login/Login';
-
-// ReactDOM.render(
-//     <React.StrictMode>
-//         <App />
-//     </React.StrictMode>,
-//     document.getElementById('root')
-// )
 
 ReactDOM.render(
     <AzureAD provider={authProvider} forceLogin={true}>
