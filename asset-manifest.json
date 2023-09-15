@@ -1,0 +1,27 @@
+{
+  "files": {
+    "static/js/0.c36ab1c9.chunk.js": "/acleap-referral/static/js/0.c36ab1c9.chunk.js",
+    "launch.js": "/acleap-referral/static/js/launch.3c382357.chunk.js",
+    "main.css": "/acleap-referral/static/css/main.95703d4c.chunk.css",
+    "main.js": "/acleap-referral/static/js/main.1e9415df.chunk.js",
+    "runtime-launch.js": "/acleap-referral/static/js/runtime-launch.f30a91b5.js",
+    "runtime-main.js": "/acleap-referral/static/js/runtime-main.c4f11f2e.js",
+    "static/css/5.3e48b42e.chunk.css": "/acleap-referral/static/css/5.3e48b42e.chunk.css",
+    "static/js/5.90441e28.chunk.js": "/acleap-referral/static/js/5.90441e28.chunk.js",
+    "index.html": "/acleap-referral/index.html",
+    "launch.html": "/acleap-referral/launch.html",
+    "precache-manifest.1f8940cada4bb495377b27526ac00a06.js": "/acleap-referral/precache-manifest.1f8940cada4bb495377b27526ac00a06.js",
+    "service-worker.js": "/acleap-referral/service-worker.js",
+    "static/js/0.c36ab1c9.chunk.js.LICENSE.txt": "/acleap-referral/static/js/0.c36ab1c9.chunk.js.LICENSE.txt",
+    "static/js/5.90441e28.chunk.js.LICENSE.txt": "/acleap-referral/static/js/5.90441e28.chunk.js.LICENSE.txt",
+    "static/js/main.1e9415df.chunk.js.LICENSE.txt": "/acleap-referral/static/js/main.1e9415df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4f11f2e.js",
+    "static/js/0.c36ab1c9.chunk.js",
+    "static/css/5.3e48b42e.chunk.css",
+    "static/js/5.90441e28.chunk.js",
+    "static/css/main.95703d4c.chunk.css",
+    "static/js/main.1e9415df.chunk.js"
+  ]
+}
